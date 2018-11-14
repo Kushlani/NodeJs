@@ -1,0 +1,11 @@
+Web development --> hosting (web server)
+Web Server --> One who servers websites (it is a software)
+		computer 
+			Web server software has installed 
+			NodeJS - You can write a server in NodeJs 
+				So in any programming languages 
+					But we dont do it any other programming languages coz there are 
+					server softwares already created for those by others 
+						like Apache Tomcat
+						     Apache Web server
+				But usually in NodeJS you write the code to serve webpages (in otherwords you write the web server)

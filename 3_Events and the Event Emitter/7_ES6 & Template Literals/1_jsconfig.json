@@ -1,0 +1,10 @@
+//when you add new features of js you might need a json file in your text editor.
+//This file simply telling text editor that this folder is containing ES6 code
+//If I have this code in my folder, the text editor won't send any error msg like this feature does not exist like before.
+
+{
+	"compilerOptions": {
+		"target": "ES6"
+	}
+}
+

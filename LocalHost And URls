@@ -1,0 +1,34 @@
+URL
+<protocol>://<subdomain>.<domainname>:<port>/<path>
+subdomiain and port are optional
+
+https://edition.cnn.com/business
+edition = subdomain
+cnn.com = domain name 
+no port mentioned <-- That means default port used by the protocol
+
+80 is the default port for http protocol (http://www.pearsonitcertification.com/articles/article.aspx?p=1868080)
+
+
+
+localhost <-- Refers to the same computer, localhost means the same computer where the person who makes the request
+localhost = 127.0.0.1
+
+http://localhost:8080 <-- means 
+			http protocol
+			localhost is the same computer, that means the same computer you make the request, this is a name given to denote the same machine 
+			8080 mean 8080 port, 
+
+
+user ---> give me a web page ---> web server ---> creates a page randomly/on the fly, user desnt care how the web page is created 
+we server returns the html to the user.
+
+HTTP Status Codes 
+		Defines the successfullness of the request 
+			200 <-- Success / OK
+			404 <-- Not found
+
+HTTP Methods
+	
+
+	
